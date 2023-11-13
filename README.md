@@ -18,17 +18,19 @@
 
 # 关联的开源仓库
 
+# 关联的开源仓库
+
 <!--   my-proj -->
 
-| 模块                                | 仓库地址                                                     |
-| ----------------------------------- | ------------------------------------------------------------ |
-| **商业版棋牌，UI 更漂亮，月月更新** | [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/bizzancoin/qipaiyouxi) |
-| **开源代码：房卡完整代码**          | [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/bizzancoin/qipaiyouxi_fangkayuanma) |
-| **开源代码：管理后台web代码**       | [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/bizzancoin/qipaiyouxi_guanlihoutai) |
-|                                     |                                                              |
-|                                     |                                                              |
-|                                     |                                                              |
-|                                     |                                                              |
+| 模块                                           | 仓库地址                                                     |
+| ---------------------------------------------- | ------------------------------------------------------------ |
+| **商业版棋牌，UI 更漂亮，月月更新,手把手喂养** | [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/bizzancoin/qipaiyouxi) |
+| **开源代码：房卡完整代码**                     | [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/bizzancoin/qipaiyouxi_fangkayuanma) |
+| **开源代码：管理后台web代码**                  | [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/bizzancoin/qipaiyouxi_guanlihoutai) |
+| **开源代码：web 代码，.net**                   | [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/bizzancoin/qipaiyouxi-webusernet) |
+|                                                |                                                              |
+|                                                |                                                              |
+|                                                |                                                              |
 
 <!--   GitHub proj graph -->
 
